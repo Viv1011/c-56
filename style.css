@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(13, 242, 242);
+}
+img{
+   width: 550px; 
+   border-radius: 30px;
+}
+h1{
+    font-size: large;
+    color: midnightblue;
+}
+p{
+    font-size: small;
+    font-family: fantasy;
+    color: darkslategray;
+}
